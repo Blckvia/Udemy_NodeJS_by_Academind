@@ -1,1 +1,2 @@
-# Udemy_NodeJS_by_Academind
+# NodeJS course by Academind.
+Here you could find test assigments I solved during the course.
