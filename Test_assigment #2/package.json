@@ -1,0 +1,16 @@
+{
+  "name": "test_assigment_2",
+  "version": "1.0.0",
+  "description": "The second test assigment of the course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "blckvia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
